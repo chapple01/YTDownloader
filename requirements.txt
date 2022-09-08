@@ -1,2 +1,2 @@
-pyTelegramBotAPI
-pytube
+pyTelegramBotAPI==4.7.0
+pytube==12.1.0
